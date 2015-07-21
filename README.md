@@ -1,4 +1,4 @@
 object-inspector
 ================
-code to inspect javascript object
+code to inspect javascript object<br/>
 no more info
