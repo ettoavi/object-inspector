@@ -1,4 +1,4 @@
-[![Circle CI](https://circleci.com/gh/cdnjs/cdnjs.svg?style=svg)](https://circleci.com/gh/cdnjs/cdnjs)
+[![Circle CI](https://circleci.com/gh/cdnjs/cdnjs.svg?style=svg)](https://raw.githubusercontent.com/ettoavi/object-inspector/master/inspector.js)
 
 # Object Inspector  Repository
 
